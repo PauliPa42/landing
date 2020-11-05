@@ -1,0 +1,16 @@
+#header {
+  display: flex;
+  background-color: rgba(135, 194, 43);
+  opacity: 0.8;
+}
+
+#header .avatar-small {
+  width: 70px;
+  height: 70px;
+  padding: 25px;
+}
+
+#header h2 {
+  padding-top: 20px;
+  color: white
+}
